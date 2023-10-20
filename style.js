@@ -1,6 +1,6 @@
 let progress = document.getElementById("progress");
 let song = document.getElementById("song");
-let ctlIcon = document.getElementById("ctlIcon");
+let ctlIcon = document.getElementById("ctrlicon");
 
 // song.onloadedmetadata = function () {
 //     progress.max = song.duration;
